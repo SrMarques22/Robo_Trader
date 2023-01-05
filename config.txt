@@ -1,0 +1,3 @@
+[LOGIN]
+email = dados_de_email_sem_aspas
+senha = senha_sem_aspas
